@@ -16,10 +16,6 @@ Tailwind CSS – for styling
 [View on Netlify](https://countify-react.netlify.app/)
 
 # Installation
-
-Clone the repository:
-git clone https://github.com/your-username/countify-react.git
-
 Install dependencies:
 npm install
 
